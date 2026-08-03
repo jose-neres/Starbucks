@@ -87,6 +87,10 @@ index.html
 
 no navegador.
 
+Ou visualize a aplicação online:
+
+🌐 **Demo:** [Clique aqui](https://jose-neres.github.io/Starbucks/)
+
 ---
 
 ## 🎯 Objetivo do Projeto
