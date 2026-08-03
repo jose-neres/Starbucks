@@ -28,12 +28,12 @@ Este projeto foi desenvolvido como prática de aprimoramento em desenvolvimento 
 
 ## ✨ Características do Projeto
 
-✔ Interface inspirada na identidade visual Starbucks
-✔ Layout moderno e organizado
-✔ Seções estruturadas para apresentação de conteúdo
-✔ Utilização de imagens e elementos visuais
-✔ Estilização personalizada com CSS
-✔ Interações desenvolvidas com JavaScript
+✔ Interface inspirada na identidade visual Starbucks <br>
+✔ Layout moderno e organizado<br>
+✔ Seções estruturadas para apresentação de conteúdo<br>
+✔ Utilização de imagens e elementos visuais<br>
+✔ Estilização personalizada com CSS<br>
+✔ Interações desenvolvidas com JavaScript<br>
 
 ---
 ## 🤖 Assistente Virtual - Giovana Bot
