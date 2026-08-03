@@ -44,10 +44,10 @@ A IA foi criada para oferecer suporte na tomada de decisão, sugerindo opções 
 
 ### Funcionalidades da Giovana Bot:
 
-✔ Auxílio na escolha de pedidos
-✔ Orientações durante a navegação
-✔ Sugestões personalizadas conforme as opções disponíveis
-✔ Interação com o usuário através de uma experiência conversacional
+✔ Auxílio na escolha de pedidos <br>
+✔ Orientações durante a navegação<br>
+✔ Sugestões personalizadas conforme as opções disponíveis<br>
+✔ Interação com o usuário através de uma experiência conversacional<br>
 
 A integração da assistente virtual demonstra a aplicação de conceitos de **Inteligência Artificial (IA)** em interfaces web, proporcionando uma experiência mais próxima de um atendimento digital real.
 
